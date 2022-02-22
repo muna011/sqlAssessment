@@ -1,2 +1,2 @@
-# sqlAssessment
-SQL Assessment: Learners Data
+# SQL Assessment: Learners Data
+Analyzing two tables (users & progress) w/ SQL
